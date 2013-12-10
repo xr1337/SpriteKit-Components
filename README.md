@@ -239,6 +239,10 @@ SKComponentNodes can be a component too
 ----------------------------
 If you sublcass an SKComponentNode and you want to make use of the component callbacks without creating an extra component, just implement the `SKComponent` protocol.  Now your node gets all the component callbacks too. Just make sure you call `[super onEnter/onExit/update:]` so the component node can do it's behind the scenes magic.
 
+Testing
+---------
+Check out our CI on https://travis-ci.org/xr1337/SpriteKit-Components
+
 License
 -------
 This software is licensed under the MIT License (MIT). See LICENSE file for details.
