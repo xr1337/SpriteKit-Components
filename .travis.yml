@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: SpriteKit-Components.xcodeproj
+xcode_scheme: SpriteKit-Components
