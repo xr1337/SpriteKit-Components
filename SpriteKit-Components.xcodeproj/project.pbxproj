@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		183FDE241857B968008F12B8 /* SkHelperTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 183FDE231857B968008F12B8 /* SkHelperTest.m */; };
 		D924214F1779E20B00CF03C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D924214E1779E20B00CF03C8 /* Foundation.framework */; };
 		D924215D1779E20B00CF03C8 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D924215C1779E20B00CF03C8 /* XCTest.framework */; };
 		D924215E1779E20B00CF03C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D924214E1779E20B00CF03C8 /* Foundation.framework */; };
@@ -44,6 +45,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		183FDE231857B968008F12B8 /* SkHelperTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SkHelperTest.m; sourceTree = "<group>"; };
 		D924214B1779E20B00CF03C8 /* libSpriteKit-Components.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libSpriteKit-Components.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D924214E1779E20B00CF03C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D92421521779E20B00CF03C8 /* SpriteKit-Components-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SpriteKit-Components-Prefix.pch"; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				D924216A1779E20B00CF03C8 /* SpriteKit_ComponentsTests.m */,
+				183FDE231857B968008F12B8 /* SkHelperTest.m */,
 				D92421651779E20B00CF03C8 /* Supporting Files */,
 			);
 			path = "SpriteKit-ComponentsTests";
@@ -273,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D924216B1779E20B00CF03C8 /* SpriteKit_ComponentsTests.m in Sources */,
+				183FDE241857B968008F12B8 /* SkHelperTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
