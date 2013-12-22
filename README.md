@@ -1,4 +1,4 @@
-SpriteKit-Components
+SpriteKit-Components [![Build Status](https://travis-ci.org/xr1337/SpriteKit-Components.png?branch=master)](https://travis-ci.org/xr1337/SpriteKit-Components)
 ====================
 
 A component model for iOS 7+ SpriteKit Framework. Add components that perform specific behaviors to your nodes. Benefits to using the component based model include:
